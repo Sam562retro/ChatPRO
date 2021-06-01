@@ -1,0 +1,19 @@
+{
+  "name": "chatappcampk12",
+  "version": "1.0.0",
+  "description": "A Simple Chat Application Using Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Soham Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
